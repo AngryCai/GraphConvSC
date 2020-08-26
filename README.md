@@ -44,7 +44,7 @@ If you would like to acknowledge our efforts, please cite the following paper:
 > 
 > final sample shape: (5348, 324), labels: [0. 1. 2. 3. 4. 5.]
 
->  ================================= EGCSC RESULTS =================================
+>  ============= EGCSC RESULTS =============
 > 
 >         OA      Kappa        NMI
 >     0.9993     0.9971     0.9991
@@ -52,7 +52,7 @@ If you would like to acknowledge our efforts, please cite the following paper:
 > 
 > running time 42.296
 
-> ================================= EKGCSC RESULTS =================================
+> ============= EKGCSC RESULTS =============
 > 
 >         OA      Kappa        NMI
 >     1.0000     1.0000     1.0000
