@@ -1,6 +1,7 @@
 # Graph Convolutional Subspace Clustering
 
-**This repository includes the implementations of EGCSC and EKGCSC model reported by *"Graph Convolutional Subspace Clustering: A Robust Subspace Clustering Framework for Hyperspectral Image"***
+**This repository provides the implementations of EGCSC and EKGCSC model reported by *"Y. Cai, Z. Zhang, Z. Cai, X. Liu, X. Jiang, and Q. Yan, “Graph convolutional subspace clustering: A robust subspace clustering framework
+for hyperspectral image,” IEEE Transactions on Geoscience and Remote Sensing, 2020"***
 
 
 If you would like to acknowledge our efforts, please cite the following paper:
@@ -61,7 +62,7 @@ If you would like to acknowledge our efforts, please cite the following paper:
 
 
 --------------------------------------------------------------
-**reference hyper-parameters of EGCSC**
+**Reference hyper-parameter settings of EGCSC**
 
     =====  ===========  ===========  ===========
     data    lambda            K          RO
@@ -71,7 +72,7 @@ If you would like to acknowledge our efforts, please cite the following paper:
     PaU      1000           20          0.6
     ===========================================
 
-**reference hyper-parameters of EKGCSC**
+**Reference hyper-parameter settings of EKGCSC**
 
     =====  ===========  ===========  ===========  ==========
     data    lambda            K          RO         gamma
