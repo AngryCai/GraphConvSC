@@ -7,7 +7,7 @@ import numpy as np
 
 from Toolbox.rolling_window import rolling_window as rw
 import spectral as spy
-import tensorflow as tf
+#import tensorflow as tf
 from sklearn.feature_extraction import image
 
 class Processor:
