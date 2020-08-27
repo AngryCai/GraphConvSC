@@ -52,6 +52,7 @@ If you would like to acknowledge our efforts, please cite the following paper:
 > class accuracy: [1.         0.99702159 1.         1.         1.         1.        ]
 > 
 > running time 42.296
+>
 > ============= EKGCSC RESULTS =============
 > 
 >         OA      Kappa        NMI
